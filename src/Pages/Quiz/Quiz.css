@@ -1,9 +1,0 @@
-.Quiz {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  background: linear-gradient(#6984dd, #f398ff);
-}
